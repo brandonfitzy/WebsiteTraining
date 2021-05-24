@@ -6,12 +6,16 @@ p {
 }
 */
 
-body{
-    background-color: gray;
+p {
+    color: blue;
 }
 
-p {
+#firstP {
 
+    color: crimson;
 
-    color: blue;
+}
+
+.secondP {
+    color:darkgreen
 }
